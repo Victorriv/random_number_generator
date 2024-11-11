@@ -2,3 +2,4 @@ let randomNum = Math.floor(Math.random() * 6); // this will generate a random nu
 // math.floor will help us not get decimals. now it will give 1-5
 
 // but i want 1-6
+console.log(randomNum);

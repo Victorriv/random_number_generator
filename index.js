@@ -1,1 +1,1 @@
-let random = Math.random(); // this will generate a random number between 0 and 1
+let randomNum = Math.random() * 6; // this will generate a random number between 0 and 1... Multipling 6 will give us a number between 0-6 exclusive. 

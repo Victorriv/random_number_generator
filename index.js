@@ -1,0 +1,1 @@
+let random = Math.random(); // this will generate a random number between 0 and 1

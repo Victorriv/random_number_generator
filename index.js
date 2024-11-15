@@ -1,6 +1,7 @@
 const myButton= document.getElementById("myButton"); // getting my button id
 const myLabel = document.getElementById("myLabel");
-
+const min = 1;
+const max = 6;
 
 
 

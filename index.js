@@ -1,3 +1,15 @@
+const myButton= document.getElementById("myButton"); // getting my button id
+
+
+
+
+
+
+
+
+
+
+/*
 
 const min = 50;
 const max =100;
@@ -15,3 +27,5 @@ let randomNum = Math.floor(Math.random() * (max-min)) + min; // this will genera
 console.log(randomNum);
 
 //1:05:00
+
+*/

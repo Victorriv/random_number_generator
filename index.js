@@ -1,4 +1,5 @@
 const myButton= document.getElementById("myButton"); // getting my button id
+const myLabel = document.getElementById("myLabel");
 
 
 

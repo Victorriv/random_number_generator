@@ -4,6 +4,10 @@ const min = 1;
 const max = 6;
 let randomNum;
 
+
+myButton.onclick = function(){
+    
+}
 //1:11:50
 
 

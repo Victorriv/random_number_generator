@@ -2,9 +2,9 @@ const myButton= document.getElementById("myButton"); // getting my button id
 const myLabel = document.getElementById("myLabel");
 const min = 1;
 const max = 6;
+let randomNum;
 
-
-
+//1:11:50
 
 
 

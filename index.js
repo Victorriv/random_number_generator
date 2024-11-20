@@ -9,7 +9,7 @@ myButton.onclick = function(){
     randomNum = Math.floor(Math.random() * max) + min; // rolls a random number..... math.floor rounds it.
     myLabel.textContent = randomNum;
 }
-//1:11:50
+//1:13:50
 
 
 

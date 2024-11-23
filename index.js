@@ -14,6 +14,7 @@ myButton.onclick = function(){
     randomNum3 = Math.floor(Math.random() * max) + min;
     label1.textContent = randomNum1;
     label2.textContent = randomNum2;
+    label3.textContent = randomNum3;
 }
 //1:15:00
 

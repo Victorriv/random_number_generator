@@ -1,5 +1,6 @@
 const myButton= document.getElementById("myButton"); // getting my button id
-const myLabel = document.getElementById("myLabel");
+const myLabel = document.getElementById("myLabel1");
+const myLabel = document.getElementById("myLabel2");
 const min = 1;
 const max = 6;
 let randomNum;
@@ -9,7 +10,7 @@ myButton.onclick = function(){
     randomNum = Math.floor(Math.random() * max) + min; // rolls a random number..... math.floor rounds it.
     myLabel.textContent = randomNum;
 }
-//1:13:50
+//1:14:35
 
 
 

@@ -4,7 +4,7 @@ const myLabel2 = document.getElementById("myLabel2");
 const myLabel3 = document.getElementById("myLabel3");
 const min = 1;
 const max = 6;
-let randomNum;
+let randomNum1;
 
 
 myButton.onclick = function(){

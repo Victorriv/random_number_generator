@@ -1,7 +1,7 @@
 const myButton= document.getElementById("myButton"); // getting my button id
 const myLabel1 = document.getElementById("myLabel1");
-const myLabel = document.getElementById("myLabel2");
-const myLabel = document.getElementById("myLabel3");
+const myLabel2 = document.getElementById("myLabel2");
+const myLabel3 = document.getElementById("myLabel3");
 const min = 1;
 const max = 6;
 let randomNum;

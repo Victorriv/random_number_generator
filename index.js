@@ -12,7 +12,8 @@ myButton.onclick = function(){
     randomNum1 = Math.floor(Math.random() * max) + min; // rolls a random number..... math.floor rounds it.
     randomNum2 = Math.floor(Math.random() * max) + min;
     randomNum3 = Math.floor(Math.random() * max) + min;
-    label1.textContent = randomNum;
+    label1.textContent = randomNum1;
+    label2.textContent = randomNum2;
 }
 //1:15:00
 

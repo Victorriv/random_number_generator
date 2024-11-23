@@ -10,6 +10,8 @@ let randomNum3;
 
 myButton.onclick = function(){
     randomNum1 = Math.floor(Math.random() * max) + min; // rolls a random number..... math.floor rounds it.
+    randomNum2 = Math.floor(Math.random() * max) + min;
+    randomNum3 = Math.floor(Math.random() * max) + min;
     myLabel.textContent = randomNum;
 }
 //1:14:35

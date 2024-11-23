@@ -1,7 +1,7 @@
 const myButton= document.getElementById("myButton"); // getting my button id
-const myLabel1 = document.getElementById("myLabel1");
-const myLabel2 = document.getElementById("myLabel2");
-const myLabel3 = document.getElementB   yId("myLabel3");
+const label1 = document.getElementById("myLabel1");
+const label2 = document.getElementById("myLabel2");
+const label3 = document.getElementB   yId("myLabel3");
 const min = 1;
 const max = 6;
 let randomNum1;
@@ -12,9 +12,9 @@ myButton.onclick = function(){
     randomNum1 = Math.floor(Math.random() * max) + min; // rolls a random number..... math.floor rounds it.
     randomNum2 = Math.floor(Math.random() * max) + min;
     randomNum3 = Math.floor(Math.random() * max) + min;
-    myLabel.textContent = randomNum;
+    label1.textContent = randomNum;
 }
-//1:14:35
+//1:15:00
 
 
 
